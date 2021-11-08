@@ -1,0 +1,22 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "Object Oriented Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilBinstock/SodaBootcamp.git"
+  },
+  "author": "Sunil Binstock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilBinstock/SodaBootcamp/issues"
+  },
+  "homepage": "https://github.com/SunilBinstock/SodaBootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
